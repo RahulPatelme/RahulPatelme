@@ -11,6 +11,6 @@
 -->
 
 ### Connect with me:
-[<img align="left" alt="RahulPatel | LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="RahulPatel | LinkedIn" width="24px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rahul-patel-aunz/
