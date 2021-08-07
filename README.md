@@ -9,6 +9,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulPatelme&theme=neon-palenight)](https://git.io/streak-stats)
 
 ### Connect with me:
 [<img align="left" alt="RahulPatel | LinkedIn" width="24px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
