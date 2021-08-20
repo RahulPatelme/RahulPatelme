@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://rahul-github-streak.herokuapp.com?user=RahulPatelme&theme=neon-palenight)](https://git.io/streak-stats)
+![GitHub Streak](https://rahul-github-streak.herokuapp.com?user=RahulPatelme&theme=neon-palenight) 
 </div>
 
-[![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)]
+![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)
 
 
 ### Connect with me:
