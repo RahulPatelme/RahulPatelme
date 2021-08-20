@@ -15,7 +15,7 @@
 [![GitHub Streak](https://rahul-github-streak.herokuapp.com?user=RahulPatelme&theme=neon-palenight)](https://git.io/streak-stats)
 </div>
 
-[![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)]
 
 
 ### Connect with me:
