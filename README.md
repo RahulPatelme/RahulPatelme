@@ -16,7 +16,7 @@
 </div>
 
 <!-- ![Rahul's Github Activity](https://rahul-github-activity.herokuapp.com/graph?username=RahulPatelme&theme=rogue) -->
-![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=rogue)
+![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)
 
 
 ### Connect with me:
