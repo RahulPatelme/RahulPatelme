@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://rahul-github-streak.herokuapp.com?user=RahulPatelme&theme=neon-palenight) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulPatelme&theme=neon-palenight) 
 </div>
 
 <!-- ![Rahul's Github Activity](https://rahul-github-activity.herokuapp.com/graph?username=RahulPatelme&theme=rogue) -->
