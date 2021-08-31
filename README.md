@@ -20,6 +20,6 @@
 
 
 ### Connect with me:
-[<img align="left" alt="RahulPatel | LinkedIn" width="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="RahulPatel | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rahul-patel-aunz/
