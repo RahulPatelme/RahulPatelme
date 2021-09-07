@@ -9,11 +9,12 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulPatelme&theme=neon-palenight) 
-</div>
+</div> -->
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulPatelme&show_icons=true&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 
 <!-- ![Rahul's Github Activity](https://rahul-github-activity.herokuapp.com/graph?username=RahulPatelme&theme=rogue) -->
 ![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)
