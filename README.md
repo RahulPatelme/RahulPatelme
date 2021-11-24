@@ -16,8 +16,8 @@
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulPatelme&show_icons=true&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 
-<!-- ![Rahul's Github Activity](https://rahul-github-activity.herokuapp.com/graph?username=RahulPatelme&theme=rogue) -->
-![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github)
+<!-- ![Rahul's Github Activity](https://rahul-github-activity.herokuapp.com/graph?username=RahulPatelme&theme=rogue) 
+![Rahul's Github Activity](https://activity-graph.herokuapp.com/graph?username=RahulPatelme&theme=github) -->
 
 
 ### Connect with me:
